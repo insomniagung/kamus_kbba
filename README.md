@@ -1,8 +1,19 @@
 # kamus_kbba
+Kamus Bahasa Bahasa Alay.
+
 kamus bahasa indonesia khusus bahasa alay (slang) untuk melakukan analisis sentimen pada tahap slang word standardization.
 
 ## example of how to use:
 
+### table :
+|               | content_clean |
+| ------------- | ------------- |
+|       0       | ko jadi ngaco ya sekarang udh harus beli tiket...  |
+|       1       | tingkatin performa dong dari gua jaman maba am...  |
+
+
+
+### code :
 ```python
 kbba_dictionary = pd.read_csv('https://raw.githubusercontent.com/insomniagung/kamus_kbba/main/kbba.txt', delimiter='\t', names=['slang', 'formal'], header=None, encoding='utf-8')
 
@@ -17,7 +28,18 @@ def convert_slangword(text):
     return normalized_text
 
 df['content_clean'] = df['content_clean'].apply(convert_slangword)
+
+df[['content_clean']]
 ```
 
-terdapat penambahan kata. 
+### table :
+|               | content_clean |
+| ------------- | ------------- |
+|       0       | kok jadi kacau iya sekarang sudah harus beli t...  |
+|       1       | tingkatkan performa dong dari saya jaman mahas...  |
+
+---
+
+terdapat penambahan kata. silakan gunakan dengan bijak.
+
 credit and thanks to https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/kbba.txt
