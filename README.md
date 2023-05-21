@@ -35,8 +35,8 @@ df[['content_clean']]
 ### table :
 |               | content_clean |
 | ------------- | ------------- |
-|       0       | kok jadi kacau iya sekarang sudah harus beli t...  |
-|       1       | tingkatkan performa dong dari saya zaman mahas...  |
+|       0       | `kok` jadi `kacau` iya sekarang `sudah` harus beli t...  |
+|       1       | `tingkatkan` performa dong dari `saya` `zaman` mahas...  |
 
 ---
 
