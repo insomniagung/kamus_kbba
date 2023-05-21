@@ -3,7 +3,7 @@ kamus bahasa indonesia khusus bahasa alay (slang) untuk melakukan analisis senti
 
 ## example of how to use:
 
-```
+```python
 kbba_dictionary = pd.read_csv('https://raw.githubusercontent.com/insomniagung/kamus_kbba/main/kbba.txt', delimiter='\t', names=['slang', 'formal'], header=None, encoding='utf-8')
 
 slang_dict = dict(zip(kbba_dictionary['slang'], kbba_dictionary['formal']))
