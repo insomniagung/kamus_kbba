@@ -1314,6 +1314,8 @@ emank	memang
 seting	akting
 maybe	mungkin
 next	lanjut
+sebal kesal
+sebel kesal
 sebelom	sebelum
 waspadalah	waspada
 our	kami
