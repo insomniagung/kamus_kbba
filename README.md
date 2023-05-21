@@ -13,6 +13,7 @@ def convert_slangword(text):
     normalized_text = ' '.join(normalized_words)
     return normalized_text
 df['content_clean'] = df['content_clean'].apply(convert_slangword)
+
 ---
 
 terdapat penambahan kata. credit and thanks to https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/kbba.txt
