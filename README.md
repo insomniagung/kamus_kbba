@@ -36,7 +36,7 @@ df[['content_clean']]
 |               | content_clean |
 | ------------- | ------------- |
 |       0       | kok jadi kacau iya sekarang sudah harus beli t...  |
-|       1       | tingkatkan performa dong dari saya jaman mahas...  |
+|       1       | tingkatkan performa dong dari saya zaman mahas...  |
 
 ---
 
