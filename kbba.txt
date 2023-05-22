@@ -609,6 +609,7 @@ kykny	kayanya
 la	lah
 laka	kecelakaan
 lam	salam
+lamaa	lama
 lambreta	lambat
 lamp	lampiran
 lansia	lanjut usia
