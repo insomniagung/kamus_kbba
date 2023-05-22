@@ -610,7 +610,11 @@ la	lah
 laka	kecelakaan
 lam	salam
 lamaa	lama
-lamaaa  lama
+lamaaa	lama
+lamaaaa	lama
+lamaaaaa	lama
+lamaaaaaa	lama
+lamaaaaaaa	lama
 lambreta	lambat
 lamp	lampiran
 lansia	lanjut usia
