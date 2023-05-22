@@ -583,9 +583,9 @@ komsov	komunis sovyet
 komtiong	komunis Tiongkok
 kongkow	kumpul bareng teman-teman
 konjen	konsulat jenderal
-kontol	kelamin laki-laki
-kontlo	kelamin laki-laki
-kntl	kelamin laki-laki
+kontol	jelek
+kontlo	jelek
+kntl	jelek
 kopdar	kopi darat
 koq	kok
 korup	korupsi
