@@ -186,10 +186,6 @@ buber	buka bersama
 bubu	tidur
 bujubune	luar biasa
 bumil	ibu hamil
-burukk  buruk
-burukkk buruk
-burukkkk  buruk
-burukkkkk buruk
 buser	buru sergap
 bw	bawa
 bwhn	bawahan
@@ -615,12 +611,6 @@ kykny	kayanya
 la	lah
 laka	kecelakaan
 lam	salam
-lamaa lama
-lamaaa  lama
-lamaaaa lama
-lamaaaaa  lama
-lamaaaaaa lama
-lamaaaaaaa  lama
 lambreta	lambat
 lamp	lampiran
 lansia	lanjut usia
@@ -1316,8 +1306,6 @@ emank	memang
 seting	akting
 maybe	mungkin
 next	lanjut
-sebal kesal
-sebel kesal
 sebelom	sebelum
 waspadalah	waspada
 our	kami
@@ -1362,7 +1350,6 @@ tai	kotoran
 tirani	tiran
 pls	tolong
 tlng	tolong
-tlong tolong
 tlg	tolong
 tilep	tilap
 accord	sesuai
