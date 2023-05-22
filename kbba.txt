@@ -30,8 +30,6 @@ alow	halo
 ama	sama
 ambilin	ambilkan
 ambl	ambil
-ana saya
-ane saya
 ancur	hancur
 anjir	anjing
 anjrit	anjing
@@ -1358,7 +1356,6 @@ irit	hemat
 tak	tidak
 semau	asal
 mbual	bual
-mantabss bagus	
 orange	oranye
 uasai	kuasai
 vote	pilih
