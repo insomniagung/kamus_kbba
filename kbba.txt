@@ -1343,6 +1343,12 @@ buangbuang	buang
 tsk	tersangka
 tsangka	tersangka
 dungu	bodoh
+lambatt	lambat
+lambattt	lambat
+lambatttt	lambat
+lambattttt	lambat
+lambatttttt	lambat
+lambattttttt	lambat
 lemot	lambat
 capek	lelah
 kurng	kurang
