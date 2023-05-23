@@ -139,6 +139,7 @@ blum	belum
 bnchi	benci
 bnci	benci
 bngung	bingung
+bnr	benar
 bnran	yang benar
 bnyk	banyak
 bodor	lucu
@@ -482,6 +483,7 @@ jijay	jijik
 jir	anjing
 jkt	jakarta
 jln	jalan
+jls	jelas
 jnj	janji
 jomblo	tidak punya pacar
 jth	jatuh
@@ -558,6 +560,7 @@ klo	kalau
 kloter	kelompok terbang
 kluarga	keluarga
 klw	kalau
+klwatan	kelewatan
 klwrga	keluarga
 km	kamu
 kmari	kemari
@@ -1033,6 +1036,8 @@ sll	selalu
 slm	salam
 slma	selama
 slmt	selamat
+slow	lambat
+slowrespon	tanggapan lambat
 slsai	selesai
 slt	sulit
 smpt	sempat
