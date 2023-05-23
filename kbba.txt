@@ -498,6 +498,8 @@ kabag	kepala bagian
 kabor	kabur
 kacian	kasihan
 kacrut	kacau
+kacauu	kacau
+kacauuu	kacau
 kadit	kepala direktorat
 kadiv	kepala divisi
 kaga	tidak
