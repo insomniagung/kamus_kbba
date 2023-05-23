@@ -498,6 +498,8 @@ kabag	kepala bagian
 kabor	kabur
 kacian	kasihan
 kacrut	kacau
+kacauu	kacau
+kacauuu	kacau
 kadit	kepala direktorat
 kadiv	kepala divisi
 kaga	tidak
@@ -548,6 +550,7 @@ ketauan	ketahuan
 ketrima	diterima
 keukeuh	keras kepala
 kgiatan	kegiatan
+kgk	tidak
 khan	kan
 kibul	bohong
 kibus	kaki busuk
@@ -608,6 +611,7 @@ kuq	kok
 kw	imitasi
 ky	seperti
 kyk	seperti
+kyak	seperti
 kykny	kayanya
 la	lah
 laka	kecelakaan
@@ -879,6 +883,9 @@ panja	panitia kerja
 pansus	panitia khusus
 pantura	pantai utara
 parpol	partai politik
+parahh	parah
+parahhhh	parah
+parahhhhh	parah
 paraaahhhhh	parah
 pas2an	pas-pasan
 pasutri	pasangan suami istri
@@ -1027,6 +1034,7 @@ skali	sekali
 skalian	sekalian
 skl	sekali
 sklh	sekolah
+skrang	sekarang
 skrg	sekarang
 skt	sakit
 skul	sekolah
@@ -1315,6 +1323,7 @@ emank	memang
 seting	akting
 maybe	mungkin
 next	lanjut
+sbelum	sebelum
 sebelom	sebelum
 waspadalah	waspada
 our	kami
@@ -1336,6 +1345,12 @@ buangbuang	buang
 tsk	tersangka
 tsangka	tersangka
 dungu	bodoh
+lambatt	lambat
+lambattt	lambat
+lambatttt	lambat
+lambattttt	lambat
+lambatttttt	lambat
+lambattttttt	lambat
 lemot	lambat
 capek	lelah
 kurng	kurang
@@ -1347,6 +1362,10 @@ bebal	bodoh
 koar	teriak
 muna	munafik
 lelet	lambat
+lelett	lambat
+lelettt	lambat
+leletttt	lambat
+lelettttt	lambat
 naas	nahas
 paranoid	takut
 parno	takut
