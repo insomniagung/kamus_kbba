@@ -31,6 +31,7 @@ ama	sama
 ambilin	ambilkan
 ambl	ambil
 ancur	hancur
+and	dan
 anjir	anjing
 anjrit	anjing
 ank	anak
