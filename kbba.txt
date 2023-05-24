@@ -507,7 +507,8 @@ kaga	tidak
 kagak	tidak
 kaka	kakak
 kalo	kalau
-kalo	kalau
+klau	kalau
+klw	kalau
 kampret	sialan
 kamtib	keamanan dan ketertiban
 kamtibmas	keamanan dan ketertiban masyarakat
