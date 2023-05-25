@@ -553,6 +553,7 @@ ketrima	diterima
 keukeuh	keras kepala
 kgiatan	kegiatan
 kgk	tidak
+kg	tidak
 khan	kan
 kibul	bohong
 kibus	kaki busuk
@@ -719,6 +720,7 @@ miras	minuman keras
 mksd	maksud
 mlah	malah
 mls	malas
+males	malas
 mngkn	mungkin
 mnt	minta
 mo	mau
@@ -1258,6 +1260,7 @@ mz	mas
 komun	komunitas
 analisise	analisis
 stop	henti
+stoppp	berhenti
 sadaar	sadar
 manen	panen
 sept	september
@@ -1420,3 +1423,6 @@ tlong	tolong
 ana	saya
 ane	saya
 mantabss	bagus
+byt	bayar
+ygy	teman
+not	berhenti
