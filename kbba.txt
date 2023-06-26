@@ -617,6 +617,7 @@ kyk	seperti
 kyak	seperti
 kykny	kayanya
 la	lah
+laamaaaa	lambat
 laka	kecelakaan
 lam	salam
 lamaa	lama
@@ -1113,6 +1114,7 @@ tengil	menyebalkan
 tengok	menjenguk
 tepar	terkapar
 terbitin	terbitkan
+telantar	terlantar
 tggu	tunggu
 tgl	tanggal
 tgu	tunggu
