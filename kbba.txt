@@ -534,6 +534,7 @@ kcian	kasihan
 kdu	harus
 keburu	terlanjur
 kec	kecamatan
+kecewaa	kecewa
 kedubes	kedutaan besar
 kejurnas	kejuaraan nasional
 kek	seperti
