@@ -144,6 +144,7 @@ bnci	benci
 bngung	bingung
 bnr	benar
 bnran	yang benar
+bnyak	banyak
 bnyk	banyak
 bodor	lucu
 bohay	badan aduhai
@@ -394,6 +395,7 @@ gj	tidak jelas
 gk	tidak
 gmana	bagaimana
 gmn	bagaimana
+gmna	bagaimana
 gn	begini
 goblog	goblok
 goblok	bodoh
@@ -823,6 +825,7 @@ nginep	menginap
 ngiri	iri
 ngisi	mengisi
 ngisiin	mengisikan
+ngk	tidak
 ngmg	bicara
 ngmng	bicara
 ngocol	lucu
@@ -895,6 +898,7 @@ pantura	pantai utara
 parpol	partai politik
 paraah	parah
 parahh	parah
+parahhh	parah
 parahhhh	parah
 parahhhhh	parah
 paraaahhhhh	parah
@@ -1112,6 +1116,7 @@ taw	tahu
 tawh	tahu
 td	tadi
 tdi	tadi
+tdak	tidak
 tdk	tidak
 te2p	tetap
 teh	kakak perempuan
