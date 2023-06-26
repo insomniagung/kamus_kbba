@@ -585,6 +585,7 @@ kodya	kota madya
 kog	kok
 komdis	komisi disiplin
 kompi	komputer
+komplen	komplain
 komsov	komunis sovyet
 komtiong	komunis Tiongkok
 kongkow	kumpul bareng teman-teman
@@ -1045,6 +1046,7 @@ skl	sekali
 sklh	sekolah
 skrang	sekarang
 skrg	sekarang
+skrng	sekarang
 skt	sakit
 skul	sekolah
 slesai	selesai
@@ -1092,6 +1094,7 @@ sumbangin	sumbangkan
 sumpek	sempit
 susaaaahhh	sulit
 sy	saya
+sya	saya
 syg	sayang
 syp	siapa
 t4	tempat
