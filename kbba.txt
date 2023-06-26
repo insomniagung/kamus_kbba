@@ -98,6 +98,7 @@ bazis	badan amal, zakat, infak, dan sedekah
 bcanda	bercanda
 bcoz	karena
 bdg	bandung
+bdo	bodoh
 beb	sayang
 begajulan	nakal
 bego	bodoh
@@ -888,6 +889,7 @@ panja	panitia kerja
 pansus	panitia khusus
 pantura	pantai utara
 parpol	partai politik
+paraah	parah
 parahh	parah
 parahhhh	parah
 parahhhhh	parah
@@ -895,6 +897,8 @@ paraaahhhhh	parah
 pas2an	pas-pasan
 pasutri	pasangan suami istri
 patas	cepat dan terbatas
+payahh	payah
+payahhh	payah
 pd	pada
 pdhal	padahal
 pdhl	padahal
