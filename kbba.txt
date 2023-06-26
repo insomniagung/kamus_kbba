@@ -25,6 +25,7 @@ akku	aku
 akuwh	aku
 akyu	aku
 alay	norak
+alesan	alasan
 aljasa	asal jadi saja
 alow	halo
 ama	sama
@@ -784,6 +785,7 @@ nembak	menyatakan cinta
 ngabis2in	menghabiskan
 ngabuburit	menunggu berbuka puasa
 ngaco	kacau
+ngak	tidak
 ngakak	tertawa
 ngaku	mengaku
 ngambek	marah
@@ -813,6 +815,7 @@ ngerampok	merampok
 ngerti	mengerti
 ngga	tidak
 nggak	tidak
+nggk	tidak
 ngibul	berbohong
 ngikut	ikut
 ngiler	mau
@@ -901,6 +904,7 @@ patas	cepat dan terbatas
 payahh	payah
 payahhh	payah
 pd	pada
+pdahal	padahal
 pdhal	padahal
 pdhl	padahal
 pede	percaya diri
@@ -932,6 +936,7 @@ pisan	sangat
 pisgor	pisang goreng
 pk	penjahat kelamin
 pke	pakai
+pket	paket
 plg	paling
 pm	private message
 pmbyaran	pembayaran
