@@ -25,6 +25,7 @@ akku	aku
 akuwh	aku
 akyu	aku
 alay	norak
+alesan	alasan
 aljasa	asal jadi saja
 alow	halo
 ama	sama
@@ -98,6 +99,7 @@ bazis	badan amal, zakat, infak, dan sedekah
 bcanda	bercanda
 bcoz	karena
 bdg	bandung
+bdo	bodoh
 beb	sayang
 begajulan	nakal
 bego	bodoh
@@ -142,6 +144,7 @@ bnci	benci
 bngung	bingung
 bnr	benar
 bnran	yang benar
+bnyak	banyak
 bnyk	banyak
 bodor	lucu
 bohay	badan aduhai
@@ -392,6 +395,7 @@ gj	tidak jelas
 gk	tidak
 gmana	bagaimana
 gmn	bagaimana
+gmna	bagaimana
 gn	begini
 goblog	goblok
 goblok	bodoh
@@ -530,6 +534,7 @@ kcian	kasihan
 kdu	harus
 keburu	terlanjur
 kec	kecamatan
+kecewaa	kecewa
 kedubes	kedutaan besar
 kejurnas	kejuaraan nasional
 kek	seperti
@@ -584,6 +589,7 @@ kodya	kota madya
 kog	kok
 komdis	komisi disiplin
 kompi	komputer
+komplen	komplain
 komsov	komunis sovyet
 komtiong	komunis Tiongkok
 kongkow	kumpul bareng teman-teman
@@ -617,6 +623,7 @@ kyk	seperti
 kyak	seperti
 kykny	kayanya
 la	lah
+laamaaaa	lambat
 laka	kecelakaan
 lam	salam
 lamaa	lama
@@ -781,6 +788,7 @@ nembak	menyatakan cinta
 ngabis2in	menghabiskan
 ngabuburit	menunggu berbuka puasa
 ngaco	kacau
+ngak	tidak
 ngakak	tertawa
 ngaku	mengaku
 ngambek	marah
@@ -810,6 +818,7 @@ ngerampok	merampok
 ngerti	mengerti
 ngga	tidak
 nggak	tidak
+nggk	tidak
 ngibul	berbohong
 ngikut	ikut
 ngiler	mau
@@ -817,6 +826,7 @@ nginep	menginap
 ngiri	iri
 ngisi	mengisi
 ngisiin	mengisikan
+ngk	tidak
 ngmg	bicara
 ngmng	bicara
 ngocol	lucu
@@ -887,14 +897,20 @@ panja	panitia kerja
 pansus	panitia khusus
 pantura	pantai utara
 parpol	partai politik
+paraah	parah
 parahh	parah
+parahhh	parah
 parahhhh	parah
 parahhhhh	parah
 paraaahhhhh	parah
 pas2an	pas-pasan
 pasutri	pasangan suami istri
 patas	cepat dan terbatas
+payahh	payah
+payahhh	payah
 pd	pada
+padahl	padahal
+pdahal	padahal
 pdhal	padahal
 pdhl	padahal
 pede	percaya diri
@@ -926,6 +942,7 @@ pisan	sangat
 pisgor	pisang goreng
 pk	penjahat kelamin
 pke	pakai
+pket	paket
 plg	paling
 pm	private message
 pmbyaran	pembayaran
@@ -1040,6 +1057,7 @@ skl	sekali
 sklh	sekolah
 skrang	sekarang
 skrg	sekarang
+skrng	sekarang
 skt	sakit
 skul	sekolah
 slesai	selesai
@@ -1087,6 +1105,7 @@ sumbangin	sumbangkan
 sumpek	sempit
 susaaaahhh	sulit
 sy	saya
+sya	saya
 syg	sayang
 syp	siapa
 t4	tempat
@@ -1099,6 +1118,7 @@ taw	tahu
 tawh	tahu
 td	tadi
 tdi	tadi
+tdak	tidak
 tdk	tidak
 te2p	tetap
 teh	kakak perempuan
@@ -1113,6 +1133,7 @@ tengil	menyebalkan
 tengok	menjenguk
 tepar	terkapar
 terbitin	terbitkan
+telantar	terlantar
 tggu	tunggu
 tgl	tanggal
 tgu	tunggu
@@ -1350,6 +1371,7 @@ buangbuang	buang
 tsk	tersangka
 tsangka	tersangka
 dungu	bodoh
+lambann	lambat
 lambatt	lambat
 lambattt	lambat
 lambatttt	lambat
@@ -1407,16 +1429,18 @@ angis	nangis
 istaa	nista
 sayan	sayang
 mgkin	mungkin
-lamaa	lama
-lamaaa	lama
-lamaaaa	lama
-lamaaaaa	lama
-lamaaaaaa	lama
-lamaaaaaaa	lama
+lamaa	lambat
+lamaaa	lambat
+lamaaaa	lambat
+lamaaaaa	lambat
+lamaaaaaa	lambat
+lamaaaaaaa	lambat
+lamax	lambat
 burukk	buruk
 burukkk	buruk
 burukkkk	buruk
 burukkkkk	buruk
+buruukkkkkk	buruk
 sebal	kesal
 sebel	kesal
 tlong	tolong
