@@ -1480,3 +1480,4 @@ Sy  saya
 sy  saya  
 min  admin
 minn  admin
+jaringane  jaringan
