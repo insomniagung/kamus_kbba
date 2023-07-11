@@ -1448,6 +1448,7 @@ ana	saya
 ane	saya
 mantabss	bagus
 byt	bayar
+piye	bagaimana
 ygy	teman
 malees	malas
 cuakzzzz	cuak
@@ -1455,6 +1456,7 @@ cuakss	cuak
 chuaks	cuak
 cuaks	cuak
 hidup mewah	hedon
+gercep  gerak	cepat
 not	henti
 anehh	aneh
 lemottt	lambat
