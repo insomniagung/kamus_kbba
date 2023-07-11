@@ -1478,3 +1478,5 @@ ttep  tetap
 thanks  terima kasih
 Sy  saya
 sy  saya  
+min  admin
+minn  admin
