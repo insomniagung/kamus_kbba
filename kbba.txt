@@ -1463,3 +1463,9 @@ smpe	sampai
 iniii	ini
 step	langkah
 ngestuck	stuck
+mgkin	mungkin
+njir	anjir
+kelar	selesai
+pie	bagaimana
+piye	bagaimana
+tlong	tolong
