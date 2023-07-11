@@ -1448,6 +1448,7 @@ ana	saya
 ane	saya
 mantabss	bagus
 byt	bayar
+gercep	gerak cepat
 piye	bagaimana
 ygy	teman
 malees	malas
@@ -1456,7 +1457,6 @@ cuakss	cuak
 chuaks	cuak
 cuaks	cuak
 hidup mewah	hedon
-gercep  gerak	cepat
 not	henti
 anehh	aneh
 lemottt	lambat
@@ -1471,3 +1471,10 @@ kelar	selesai
 pie	bagaimana
 piye	bagaimana
 tlong	tolong
+los	lambat
+iki	ini
+psang  pasang
+ttep  tetap
+thanks  terima kasih
+Sy  saya
+sy  saya  
