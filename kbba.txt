@@ -1448,6 +1448,8 @@ ana	saya
 ane	saya
 mantabss	bagus
 byt	bayar
+gercep	gerak cepat
+piye	bagaimana
 ygy	teman
 malees	malas
 cuakzzzz	cuak
@@ -1458,8 +1460,36 @@ hidup mewah	hedon
 not	henti
 anehh	aneh
 lemottt	lambat
+lemoot	lambat
 bgttt	sekali
 smpe	sampai
 iniii	ini
 step	langkah
 ngestuck	stuck
+mgkin	mungkin
+njir	anjir
+minn	admin
+anjeng	anjing
+min	admin
+kelar	selesai
+jaringane	jaringan
+pie	bagaimana
+piye	bagaimana
+tlong	tolong
+los	lambat
+iki	ini
+psang	pasang
+ttep	tetap
+Sy	saya
+sy	saya
+jaringane	jaringan
+kacauuuu	kacau
+ngelag	lambat
+inet	internet
+ajig	anjing
+xabi	bisa
+bajing	anjing
+ngentod	anjing
+trouble	masalah
+tengkyu	terima kasih 
+thanks	terima kasih 
