@@ -1476,9 +1476,8 @@ iki	ini
 psang	pasang
 ttep	tetap
 Sy	saya
+sy	saya
+min	admin
+minn	admin
+jaringane	jaringan
 thanks	terima kasih
-Sy  saya
-sy  saya
-min  admin
-minn  admin
-jaringane  jaringan
