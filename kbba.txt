@@ -1468,6 +1468,7 @@ ngestuck	stuck
 mgkin	mungkin
 njir	anjir
 minn	admin
+anjeng	anjing
 min	admin
 kelar	selesai
 jaringane	jaringan
