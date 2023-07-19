@@ -1467,7 +1467,10 @@ step	langkah
 ngestuck	stuck
 mgkin	mungkin
 njir	anjir
+minn	admin
+min	admin
 kelar	selesai
+jaringane	jaringan
 pie	bagaimana
 piye	bagaimana
 tlong	tolong
