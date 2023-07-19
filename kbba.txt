@@ -1473,11 +1473,12 @@ piye	bagaimana
 tlong	tolong
 los	lambat
 iki	ini
-psang  pasang
-ttep  tetap
-thanks  terima kasih
+psang	pasang
+ttep	tetap
+Sy	saya
+thanks	terima kasih
 Sy  saya
-sy  saya  
+sy  saya
 min  admin
 minn  admin
 jaringane  jaringan
