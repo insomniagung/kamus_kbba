@@ -1489,5 +1489,4 @@ xabi	bisa
 bajing	anjing
 ngentod	anjing
 trouble	masalah
-alo	halo
 thanks	terima kasih 
