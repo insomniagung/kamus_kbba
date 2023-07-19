@@ -1490,4 +1490,5 @@ xabi	bisa
 bajing	anjing
 ngentod	anjing
 trouble	masalah
+tengkyu	terima kasih 
 thanks	terima kasih 
